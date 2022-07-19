@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/reset"
+        android:checkable="false"
+        android:icon="@drawable/ic_baseline_wifi_24"
+        android:title="Reset System"
+        android:visible="true" />
+    <item
+        android:id="@+id/save"
+        android:title="Print Data"
+        android:visible="true" />
+</menu>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "210611268873",
+    "firebase_url": "https://iotatt-95af0-default-rtdb.firebaseio.com",
+    "project_id": "iotatt-95af0",
+    "storage_bucket": "iotatt-95af0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210611268873:android:0827487051a1214c9137d8",
+        "android_client_info": {
+          "package_name": "com.example.rfidattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210611268873-tdsh0bjlqmfh0ckve44jbss4l72bkth2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcfqAF2x2uuI6y6TavQJCBGoFZDWLxiU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210611268873-tdsh0bjlqmfh0ckve44jbss4l72bkth2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
